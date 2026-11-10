@@ -437,6 +437,6 @@ st.caption(
     "This calculator provides model-based estimates of conception "
     "probability. Predictions depend on the model coefficients "
     "and the characteristics entered. This web application was "
-    "created from Niño de Guzmán et al. 2026 Dairy 7 (4), 58. "
+    "created from Niño de Guzmán et al. (2026). Dairy 7 (4), 58. "
     "https://doi.org/10.3390/dairy7040058" 
 )
